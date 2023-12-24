@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104276304147",
+    "project_id": "community-app-a33fb",
+    "storage_bucket": "community-app-a33fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104276304147:android:a18b3429e7bd83828c3ae6",
+        "android_client_info": {
+          "package_name": "com.example.communityapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAc1AoV6qRRTMBhi79I-tJLpef0PR4zpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
